@@ -3,14 +3,14 @@
   <channel>
     <title>ABLEGenXYZ Tech on GenXYZ Tech
 This site is currently under construction</title>
-    <link>https://www.genxyztech.com/_index/</link>
+    <link>https://www.genxyztech.com/</link>
     <description>Recent content in ABLEGenXYZ Tech on GenXYZ Tech
 This site is currently under construction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Mar 2019 19:11:44 -0700</lastBuildDate>
     
-	<atom:link href="https://www.genxyztech.com/_index/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.genxyztech.com/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -3,13 +3,13 @@
   <channel>
     <title>Categories on GenXYZ Tech
 This site is currently under construction</title>
-    <link>https://www.genxyztech.com/_index/categories/</link>
+    <link>https://www.genxyztech.com/categories/</link>
     <description>Recent content in Categories on GenXYZ Tech
 This site is currently under construction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://www.genxyztech.com/_index/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.genxyztech.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
