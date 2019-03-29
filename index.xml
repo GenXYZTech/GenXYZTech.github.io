@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GenXYZ Tech</title>
-    <link>http://www.genxyztech.com/</link>
+    <link>http://www.genxyztech.com/_index/</link>
     <description>Recent content on GenXYZ Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Mar 2019 18:53:00 -0700</lastBuildDate>
     
-	<atom:link href="http://www.genxyztech.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.genxyztech.com/_index/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
