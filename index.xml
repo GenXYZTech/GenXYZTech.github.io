@@ -1,15 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AGenXYZ Tech on GenXYZ Tech</title>
+    <title>GenXYZ Tech</title>
     <link>/</link>
-    <description>Recent content in AGenXYZ Tech on GenXYZ Tech</description>
+    <description>Recent content on GenXYZ Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Mar 2019 19:36:23 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2019 19:55:49 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Courses</title>
+      <link>/courses/</link>
+      <pubDate>Thu, 28 Mar 2019 19:55:49 -0700</pubDate>
+      
+      <guid>/courses/</guid>
+      <description>Blockchain, Machine Learning, the Internet of Things, and More: Meet the New Technologies Shaping Our World If you live in Silicon Valley, you can’t avoid hearing about new technologies that are changing the way we live our lives, do business, interact with people, communicate with machines, pay for products, drive cars, and accomplish other tasks. You’ve heard mentions of the Internet of Things (IoT), deep learning, blockchain, and other new transformative technologies.</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>/schedule/</link>
+      <pubDate>Thu, 28 Mar 2019 19:50:23 -0700</pubDate>
+      
+      <guid>/schedule/</guid>
+      <description>This portion of the site is still under construction. Hopefully we&amp;rsquo;ll be seeing you again real soon!</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/about_me/</link>
+      <pubDate>Thu, 28 Mar 2019 19:49:01 -0700</pubDate>
+      
+      <guid>/about_me/</guid>
+      <description>Saleem Mohamed has worked on cloud and emerging technologies at NetApp and HP to help global customers from all industry verticals drive business innovation through new technologies. He is also an evangelist and advocate for cloud and emerging technology trends. Mohamed received an ME in computer science from Anna University with specialization in artificial intelligence and expert systems.</description>
+    </item>
     
   </channel>
 </rss>
