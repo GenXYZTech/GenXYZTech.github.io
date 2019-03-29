@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.genxyztech.com/</loc>
+    <loc>http://www.genxyztech.com/_index/</loc>
     <lastmod>2019-03-28T19:11:44-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.genxyztech.com/categories/</loc>
+    <loc>http://www.genxyztech.com/_index/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.genxyztech.com/tags/</loc>
+    <loc>http://www.genxyztech.com/_index/tags/</loc>
     <priority>0</priority>
   </url>
   
